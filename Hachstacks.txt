@@ -1,0 +1,4 @@
+Name: Johnson Solomon ime
+Email: johnsonroland28@gmail.com
+Stacks: HTML, CSS and Js
+
